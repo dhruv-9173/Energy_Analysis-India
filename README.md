@@ -186,3 +186,5 @@ To contribute:
 ## Acknowledgements
 - Course: **INT375 Data Science ToolBox: Python Programming**
 - Instructor/Institution: *Dr. Savleen Kaur*
+
+# ADD TREND FORECASTING CHART
